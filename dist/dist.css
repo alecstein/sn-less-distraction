@@ -1,3 +1,9 @@
+:root {
+    --sn-stylekit-font-size-p:  1rem;
+    --sn-stylekit-font-size-editor: 1.4rem;
+    --sn-stylekit-monoospace-font: "SF Pro Mono", "Monaco", courier, monospace;
+}
+
 .mac-desktop #editor-column {
   padding-top: 35px;
 }
@@ -32,41 +38,3 @@
 #footer-bar:hover {
   opacity: 1.0;
 }
-
-:root {
- --sn-stylekit-font-size-p:  1rem;
-  --sn-stylekit-font-size-editor: 1.4rem;
-  --sn-stylekit-monoospace-font: "SF Pro Mono", "Monaco", courier, monospace;
-}
-
-.CodeMirror, .CodeMirror-fullscreen, .gKsMQS, .gKsMQS p, .CodeMirror pre.CodeMirror-line, .CodeMirror pre.CodeMirror-line-like  {
-    font-family: SF Pro Mono, Monaco, Courier New, Courier, monospace;
-    line-height: 26px;
-}
-
-/* .section.tags { */
-/*   flex: none !important; */
-/*   width: 0px !important; */
-/*   transition: width 0.25s; */
-/* } */
-
-/* .section.tags:hover { */
-/*   flex: initial; */
-/*   width: 0px !important; */
-/*   transition: width 0.25s; */
-/* } */
-
-/* .section.notes { */
-/*   flex: none !important; */
-/*   width: 0px !important; */
-/*   transition: width 0.25s; */
-/*   border: none !important; */
-/* } */
-
-/* .section.notes:hover { */
-/*   flex: initial; */
-/*   width: 0px !important; */
-/*   transition: width 0.25s; */
-/* } */
-
-/*# sourceMappingURL=dist.css.map */
