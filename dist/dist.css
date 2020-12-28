@@ -2,6 +2,7 @@
     --sn-stylekit-font-size-p:  1rem;
     --sn-stylekit-font-size-editor: 1.4rem;
     --sn-stylekit-monoospace-font: "SF Pro Mono", "Monaco", courier, monospace;
+    --line-height: 1.9rem;
 }
 
 .mac-desktop #editor-column {
