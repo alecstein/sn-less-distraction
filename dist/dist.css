@@ -39,6 +39,11 @@
   --sn-stylekit-monoospace-font: "SF Pro Mono", "Monaco", courier, monospace;
 }
 
+.CodeMirror, .CodeMirror-fullscreen, .gKsMQS, .gKsMQS p, .CodeMirror pre.CodeMirror-line, .CodeMirror pre.CodeMirror-line-like  {
+    font-family: SF Pro Mono, Monaco, Courier New, Courier, monospace;
+    line-height: 26px;
+}
+
 /* .section.tags { */
 /*   flex: none !important; */
 /*   width: 0px !important; */
