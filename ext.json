@@ -7,12 +7,12 @@ metatype: json
     "name":	"Less Distraction",
     "content_type":	"SN|Theme",
     "layerable": "true",
-    "version": "1.2.3",
+    "version": "1.2.4",
     "description": "A theme for focusing on your writing.",
     "url": "https://github.com/xthursdayx/sn-less-distraction/blob/master/dist/dist.css",
     "download_url":	"https://github.com/xthursdayx/sn-less-distraction/archive/master.zip",
     "marketing_url": "https://github.com/xthursdayx/sn-less-distraction",
-    "latest_url": "https://listed.to/p/xbEL9gJeiu",
+    "latest_url": "https://github.com/xthursdayx/sn-less-distraction/blob/master/ext.json",
     "thumbnail_url": "https://github.com/xthursdayx/sn-less-distraction/blob/master/screenshot.png",
 
     "dock_icon": {
