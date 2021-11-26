@@ -1,0 +1,25 @@
+---
+metatype: json
+---
+
+{   
+    "identifier": "io.github.xthursdayx.sn-less-distraction",
+    "name": "Less Distraction",
+    "content_type": "SN|Theme",
+    "layerable": "true",
+    "version": "1.2.4",
+    "description": "A theme for focusing on your writing.",
+    "url": "https://github.com/xthursdayx/sn-less-distraction/blob/master/dist/dist.css",
+    "download_url":	"https://github.com/xthursdayx/sn-less-distraction/archive/master.zip",
+    "marketing_url": "https://github.com/xthursdayx/sn-less-distraction",
+    "latest_url": "https://github.com/xthursdayx/sn-less-distraction/blob/master/ext.json",
+    "thumbnail_url": "https://github.com/xthursdayx/sn-less-distraction/blob/master/screenshot.png",
+
+    "dock_icon": {
+        "type":	"circle",
+        "background_color":	"transparent",
+        "foreground_color":	"white",
+        "border_color":	"white"
+    },
+    "statusBar": "dark-content"
+}
